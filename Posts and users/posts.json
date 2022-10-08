@@ -1,0 +1,318 @@
+[
+  {
+    "username": "alstasiuk",
+
+    "post": "Today I made cupcakes, if you are interested I can share the recipe. Let me know in the comments.",
+    "date": "2022-09-15",
+    "comments": [
+      {
+        "username": "khtsaruk",
+        "text": "Could you share the recipe? Very interesting.",
+        "date": "2022-09-16"
+      }
+    ],
+    "likes": [ "alexaaa023", "khtsaruk" ]
+  },
+  {
+    "username": "alexaaa023",
+    "post": "What do you think of the BMW X5? Tell me about the experience of using this car.",
+    "date": "2022-08-02",
+    "comments": [
+      {
+        "username": "jarik1999",
+        "text": "The engine has been greatly improved - quiet and supple, at the same time a pleasant sound when accelerating. On the exterior - it's understandable, but I liked the BMW more on the interior - it's more stylish, I liked the tidy and monitors more.",
+        "date": "2022-08-10"
+      },
+      {
+        "username": "maxmaxz",
+        "text": "Soundproofing is very well thought out. It is better than it was in all my previous BMW! It's like being in a cocoon! You start the engine and at low speeds it is even almost inaudible!",
+        "date": "2022-08-12"
+      }
+    ],
+    "likes": [ "jarik1999", "maxmaxz" ]
+  },
+  {
+    "username": "jarik1999",
+    "post": "Today there was a basketball match. What do you think about the results of the match?",
+    "date": "2022-10-01",
+    "comments": [
+      {
+        "username": "trokhiml2004",
+        "text": "I was present at this match. I am very happy that my favorite team won.",
+        "date": "2022-10-01"
+      }
+    ],
+    "likes": [ "alexaaa023", "maxmaxz", "trokhiml2004", "anastasiii999" ]
+  },
+  {
+    "username": "maxmaxz",
+    "post": "Every disadvantage can become an advantage.",
+    "date": "2021-12-09",
+    "comments": [
+      {
+        "username": "alstasiuk",
+        "text": "Well said. Bravo!",
+        "date": "2021-12-20"
+      },
+      {
+        "username": "oryskaprots",
+        "text": "Indeed, sometimes our shortcomings become our advantages.",
+        "date": "2021-12-22"
+      }
+    ],
+    "likes": [ "oryskaprots", "khtsaruk", "alexaaa023", "jarik1999" ]
+  },
+  {
+    "username": "khtsaruk",
+    "post": "In a week, the courses on cooking desserts will start. If you want to join, write in the comments.",
+    "date": "2022-07-20",
+    "comments": [
+      {
+        "username": "oryskaprots",
+        "text": "I would like to try. I want to know more detailed information.",
+        "date": "2022-07-21"
+      }
+    ],
+    "likes": [ "oryskaprots", "jarik1999" ]
+  },
+  {
+    "username": "olichkahlyva",
+    "post": "Art is the deepest form of individualism ever known to mankind.",
+    "date": "2022-02-10",
+    "comments": [
+      {
+        "username": "nazkoshl",
+        "text": "Wow, extremely wise words!",
+        "date": "2022-06-01"
+      },
+      {
+        "username": "trokhiml2004",
+        "text": "That's why I adore art.",
+        "date": "2022-07-23"
+      }
+    ],
+    "likes": [ "nazkoshl", "jarik1999", "alstasiuk", "maxmaxz", "khtsaruk", "trokhiml2004" ]
+  },
+  {
+    "username": "anastasiii999",
+    "post": "Can you recommend a book for improving English?",
+    "date": "2022-09-05",
+    "comments": [
+      {
+        "username": "nazkoshl",
+        "text": "Recently I have been using this book: Oxford Practice Grammar. ",
+        "date": "2022-09-10"
+      },
+      {
+        "username": "alexaaa023",
+        "text": "Practical English Usage. I love this book.",
+        "date": "2022-09-11"
+      },
+      {
+        "username": "jarik1999",
+        "text": "English for Everyone: English Vocabulary Builder ",
+        "date": "2022-09-15"
+      }
+    ],
+    "likes": [ "alexaaa023", "jarik1999" ]
+  },
+  {
+    "username": "nazkoshl",
+    "post": "Who would like to play football with me this Wednesday?",
+    "date": "2022-08-10",
+    "comments": [
+      {
+        "username": "maxmaxz",
+        "text": "I would like to! Contact me",
+        "date": "2022-08-10"
+      }
+    ],
+    "likes": [ "maxmaxz", "oryskaprots" ]
+  },
+  {
+    "username": "oryskaprots",
+    "post": "Painting is just another way of journaling.",
+    "date": "2022-06-15",
+    "comments": [
+      {
+        "username": "olichkahlyva",
+        "text": "I agree!",
+        "date": "2022-06-28"
+      }
+    ],
+    "likes": [ "olichkahlyva" ]
+  },
+  {
+    "username": "trokhiml2004",
+    "post": "Who could borrow an interesting book to read?",
+    "date": "2020-12-10",
+    "comments": [
+      {
+        "username": "khtsaruk",
+        "text": "I have many interesting books. I will gladly lend you a few.",
+        "date": "2020-12-15"
+      }
+    ],
+    "likes": [ "anastasiii999", "oryskaprots", "khtsaruk" ]
+  },
+  {
+    "username": "alstasiuk",
+    "post": "Who would like to go on a picnic?",
+    "date": "2022-06-12",
+    "comments": [
+      {
+        "username": "khtsaruk",
+        "text": "I would like to. We can arrange tomorrow.",
+        "date": "2022-06-12"
+      }
+    ],
+    "likes": [ "khtsaruk" ]
+  },
+  {
+    "username": "alexaaa023",
+    "post": "I recently read Ultra by Tobias Jones. I really liked this book. ",
+    "date": "2022-02-18",
+    "comments": [
+      {
+        "username": "nazkoshl",
+        "text": "I have never heard of this book, but I will definitely read it.",
+        "date": "2022-02-22"
+      },
+      {
+        "username": "maxmaxz",
+        "text": "Oh, I read this book. Definitely recommend to everyone.",
+        "date": "2021-02-27"
+      },
+      {
+        "username": "jarik1999",
+        "text": "I also liked this book.",
+        "date": "2021-03-06"
+      }
+    ],
+    "likes": [ "nazkoshl", "jarik1999" ]
+  },
+  {
+    "username": "jarik1999",
+    "post": "I bought a car last week. Nissan Altima 2016. Very happy with this car.",
+    "date": "2022-01-07",
+    "comments": [
+      {
+        "username": "alexaaa023",
+        "text": "My friend has the same car. He is also satisfied with the car.",
+        "date": "2022-03-10"
+      }
+    ],
+    "likes": [ "maxmaxz", "trokhiml2004", "anastasiii999" ]
+  },
+  {
+    "username": "maxmaxz",
+    "post": "I am so old… When walking into a bar they checked my pulse instead of my ID!",
+    "date": "2022-05-24",
+    "comments": [
+      {
+        "username": "alstasiuk",
+        "text": "Hahahahaha, very funny situation!",
+        "date": "2022-05-26"
+      }
+    ],
+    "likes": [ "khtsaruk", "alexaaa023", "jarik1999", "trokhiml2004", "anastasiii999", "alstasiuk" ]
+  },
+  {
+    "username": "khtsaruk",
+    "post": "The master class on making desserts ended today. Share your impressions.",
+    "date": "2022-10-05",
+    "comments": [
+      {
+        "username": "olichkahlyva",
+        "text": "I attended this master class. I learned how to make tiramisu and cupcakes. I really liked!",
+        "date": "2022-10-06"
+      },
+      {
+        "username": "oryskaprots",
+        "text": "I would like to attend the next master class. Let me know when it will happen.",
+        "date": "2022-10-07"
+      }
+    ],
+    "likes": [ "olichkahlyva", "nazkoshl", "oryskaprots", "jarik1999", "alstasiuk" ]
+  },
+  {
+    "username": "olichkahlyva",
+    "post": "Psychotherapy Of Psychosis by Chris Mace. The best book I've ever read.",
+    "date": "2021-03-24",
+    "comments": [
+      {
+        "username": "jarik1999",
+        "text": "If you like psychology, I can recommend you Treatment of Recurrent Depression by John F. Greden",
+        "date": "2021-08-07"
+      }
+    ],
+    "likes": [ "nazkoshl", "oryskaprots", "jarik1999", "alstasiuk", "maxmaxz", "khtsaruk" ]
+  },
+  {
+    "username": "anastasiii999",
+    "post": "Tell me about your favorite basketball players.",
+    "date": "2019-11-28",
+    "comments": [
+      {
+        "username": "alexaaa023",
+        "text": "My favorite player is Michael Jordan.",
+        "date": "2019-11-29"
+      },
+      {
+        "username": "oryskaprots",
+        "text": "Personally, I admire LeBron James.",
+        "date": "2019-12-06"
+      }
+    ],
+    "likes": [ "oryskaprots" ]
+  },
+  {
+    "username": "nazkoshl",
+    "post": "I recently graduated from the French school Le Cordon Bleu. Founded in Paris in 1895, Le Cordon Bleu is considered today the largest network of culinary and hospitality schools in the world with more than 35 institutes in 20 countries and 20,000 students of over 100 nationalities are trained every year.",
+    "date": "2022-04-21",
+    "comments": [
+      {
+        "username": "alexaaa023",
+        "text": "I heard about this school. I am sure you will become a successful chef.",
+        "date": "2022-04-23"
+      },
+      {
+        "username": "anastasiii999",
+        "text": "Wow, I would also like to try to study there.",
+        "date": "2022-04-26"
+      },
+      {
+        "username": "oryskaprots",
+        "text": "My mother studied at this school. Now she works in the best restaurant in Paris.",
+        "date": "2022-04-29"
+      }
+    ],
+    "likes": [ "maxmaxz", "oryskaprots", "alexaaa023" ]
+  },
+  {
+    "username": "oryskaprots",
+    "post": "An artist should not be a prisoner. Prisoner? An artist should not be a prisoner of himself, a prisoner of style, a prisoner of reputation, a prisoner of success, etc.",
+    "date": "2021-11-28",
+    "comments": [
+      {
+        "username": "jarik1999",
+        "text": "What beautiful words. Are you fond of art?",
+        "date": "2021-12-02"
+      }
+    ],
+    "likes": [ "trokhiml2004", "olichkahlyva" ]
+  },
+  {
+    "username": "trokhiml2004",
+    "post": "Could anyone recommend a good teacher for additional English lessons?",
+    "date": "2022-09-29",
+    "comments": [
+      {
+        "username": "nazkoshl",
+        "text": "I will contact you and recommend a good teacher.",
+        "date": "2022-09-30"
+      }
+    ],
+    "likes": [ "anastasiii999", "oryskaprots", "khtsaruk", "alexaaa023", "jarik1999" ]
+  }
+]

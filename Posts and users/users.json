@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Alina",
+
+    "second_name": "Stasuik",
+    "date_of_birth": "2003-06-16",
+    "username": "alstasiuk",
+    "password": "Yge0yJRj6M",
+    "email": "al.stasiuk@gmail.com",
+    "hobby": [ "Cooking", "Painting" ],
+    "follows": [ "alexaaa023", "khtsaruk" ]
+  },
+  {
+    "name": "Alex",
+    "second_name": "Boiko",
+    "date_of_birth": "2000-01-11",
+    "username": "alexaaa023",
+    "password": "V7FBKk5y8v",
+    "email": "alex.alex@gmail.com",
+    "hobby": [ "Cars", "Football" ],
+    "follows": [ "nazkoshl", "jarik1999", "maxmaxz" ]
+  },
+  {
+    "name": "Jaroslav",
+    "second_name": "Matviychuk",
+    "date_of_birth": "1999-08-17",
+    "username": "jarik1999",
+    "password": "zUnThhjt5h",
+    "email": "jarik1999@gmail.com",
+    "hobby": [ "Basketball", "Cars" ],
+    "follows": [ "alexaaa023", "maxmaxz", "trokhiml2004", "anastasiii999" ]
+  },
+  {
+    "name": "Max",
+    "second_name": "Zvir",
+    "date_of_birth": "1987-11-23",
+    "username": "maxmaxz",
+    "password": "GAVpudeg9q",
+    "email": "max.zvir@gmail.com",
+    "hobby": [ "Football", "Cooking" ],
+    "follows": [ "oryskaprots", "khtsaruk", "alexaaa023", "jarik1999", "trokhiml2004", "anastasiii999", "alstasiuk" ]
+  },
+  {
+    "name": "Khristina",
+    "second_name": "Tsaruk",
+    "date_of_birth": "2003-11-27",
+    "username": "khtsaruk",
+    "password": "DqRHLCfr5Z",
+    "email": "kristinatsaruk@gmail.com",
+    "hobby": [ "Cooking", "Cars" ],
+    "follows": [ "olichkahlyva", "nazkoshl", "oryskaprots", "jarik1999", "alstasiuk", "maxmaxz" ]
+  },
+  {
+    "name": "Olha",
+    "second_name": "Hlyva",
+    "date_of_birth": "2003-03-22",
+    "username": "olichkahlyva",
+    "password": "wfQs0OOTr6",
+    "email": "olha.hlyva@gmail.com",
+    "hobby": [ "Painting" ],
+    "follows": [ "nazkoshl", "oryskaprots", "jarik1999", "alstasiuk", "maxmaxz", "khtsaruk", "trokhiml2004" ]
+  },
+  {
+    "name": "Anastasia",
+    "second_name": "Semen",
+    "date_of_birth": "1996-02-13",
+    "username": "anastasiii999",
+    "password": "6CN4lLrTMQ ",
+    "email": "anastasi.semen@gmail.com",
+    "hobby": [ "Cars", "Basketball", "Cooking", "English"],
+    "follows": [ "alexaaa023", "jarik1999", "nazkoshl", "oryskaprots" ]
+  },
+  {
+    "name": "Nazar",
+    "second_name": "Koshlay",
+    "date_of_birth": "2001-06-19",
+    "username": "nazkoshl",
+    "password": "HBGvtW5vk8 ",
+    "email": "n.koshlay@gmail.com",
+    "hobby": [ "Cooking", "Football" ],
+    "follows": [ "alexaaa023", "maxmaxz", "oryskaprots", "trokhiml2004", "anastasiii999" ]
+  },
+  {
+    "name": "Orusya",
+    "second_name": "Prots",
+    "date_of_birth": "1993-12-31",
+    "username": "oryskaprots",
+    "password": "JlKcdkevF1 ",
+    "email": "prots.or@gmail.com",
+    "hobby": [ "Painting" ],
+    "follows": [ "anastasiii999", "nazkoshl", "jarik1999", "maxmaxz", "trokhiml2004", "olichkahlyva" ]
+  },
+  {
+    "name": "Lilia",
+    "second_name": "Trokhim",
+    "date_of_birth": "2004-03-21",
+    "username": "trokhiml2004",
+    "password": "2DACHeiF82",
+    "email": "lily.trokhim@gmail.com",
+    "hobby": [ "Cooking", "English" ],
+    "follows": [ "anastasiii999", "oryskaprots", "khtsaruk", "alexaaa023", "jarik1999", "nazkoshl" ]
+  }
+]
