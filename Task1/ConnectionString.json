@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "SN": "mongodb+srv://olia_krasna:olia21032003@cluster0.xqvzuon.mongodb.net/test"
+  }
+}
